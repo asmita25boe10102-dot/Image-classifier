@@ -484,7 +484,7 @@ Having issues? Here's how to get help:
 1. **Check Documentation**: Review README and docs folder
 2. **Search Issues**: Look for similar problems in [Issues](https://github.com/yourusername/basic-image-classifier/issues)
 3. **Create Issue**: Open a new issue with details
-4. **Contact**: Email asmita.35boe10102@vitbhopal.ac.in
+4. **Contact**: Email asmita.25boe10102@vitbhopal.ac.in
 
 ---
 
