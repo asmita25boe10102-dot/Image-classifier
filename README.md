@@ -440,12 +440,12 @@ in the Software without restriction...
 
 ## 👤 Author
 
-**Farah Raza**
-- Registration: 25BHI10027
+**Asmita Dekaphukan**
+- Registration: 25BOE10102
 - Subject: Fundamentals in AI/ML
-- Institution: [Your Institution Name]
-- Email: farah.raza@example.com
-- GitHub: [@farah-raza](https://github.com/farah-raza)
+- Institution: VIT UNIVERSITY BHOPAL
+- Email: asmita.25boe10102@vitbhopal.ac.in
+- GitHub: https://github.com/asmita25boe10102-dot/Image-classifier.git
 
 ---
 
