@@ -2,8 +2,8 @@
 Basic Image Classifier
 A comprehensive desktop application for automated image classification using deep learning
 
-Author: Farah Raza
-Registration: 25BHI10027
+Author: Asmita Dekaphukan
+Registration: 25BOE10102
 Subject: Fundamentals in AI/ML
 Date: November 23, 2025
 """
@@ -741,3 +741,4 @@ class ImageClassifierApp:
             sorted_indices = np.argsort(predictions[0])[::-1]
             for idx in sorted_indices:
                 class_name = self.class_names[idx]
+
